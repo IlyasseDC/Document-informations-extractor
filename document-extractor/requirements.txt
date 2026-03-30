@@ -1,0 +1,8 @@
+langchain==0.2.17
+langchain-anthropic==0.1.23
+anthropic
+streamlit
+pytesseract
+pdfplumber
+Pillow
+python-dotenv
