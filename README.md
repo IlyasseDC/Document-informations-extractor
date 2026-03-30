@@ -1,6 +1,6 @@
 # Document Extractor
 
-Extracteur automatique d'informations personnelles depuis des documents d'identité (images ou PDF), propulsé par Claude via LangChain.
+Extracteur automatique d'informations personnelles depuis des documents d'identité (images ou PDF) avec Claude via LangChain
 
 ## Prérequis
 
